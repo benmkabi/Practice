@@ -1,0 +1,17 @@
+Theme: Social Networks with Graphs
+
+The theme for the Mini Project is graph-based social networks.
+A (far too) simple definition of a mathematical graph is “a set
+of points together with lines joining certain pairs of these point”1.
+This seemingly trivial idea can be used to describe and analyse many
+real-world situations,includingsocialnetworks. With the points 
+representing people and the lines joining pairs of friends. This
+
+
+is precisely how today’s largest social networks work, albeit using more
+ complexgraphs where linescan representmany differentrelationships, orinteractions
+ such as follows and retweets. The task for this mini project is to solve a social
+ network related problem using graph algorithms. Remember that there are many types
+ of social networks - think LinkedIn, Pinterest and Tinder - and that your chosen network
+ and problem do not have to be limited by what is already in existence. Be creative! Some
+ examples of social graph related problems are:
