@@ -7,10 +7,10 @@ This is the main system.
 this is the sub system 1
 ![](Subsystem.drawio.svg)
 
-#User authentication
+# User authentication
 ![](loginSubSystem.drawio.svg)
 
-##Use Case: Login
+## Use Case: Login
 **Input**: user enter their credentials.
 **Output**: The system logs in the user.
 
@@ -23,7 +23,7 @@ this is the sub system 1
   1. system promps error message that user credentials are incorrect.
   1. user re-enter credentials.
   
-##Use Case: register
+## Use Case: register
 **Input**: user enters registeration information.
 **Output**: System register user.
 
